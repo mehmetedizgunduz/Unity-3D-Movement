@@ -15,6 +15,7 @@ public class PlayerWASD : MonoBehaviour
     }
     void Update()
     {
+        //yürüme fonksiyonu updatete çalýþacak
         Move();
     }
     private void Move()
